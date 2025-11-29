@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "artificial intelligence",
+      "invocationName": "modo jarvis",
       "modelConfiguration": {
         "fallbackIntentSensitivity": {
           "level": "LOW"
