@@ -1,0 +1,6 @@
+{
+    "llm_url": "https://openrouter.ai/api/v1/chat/completions",
+    "llm_model": "openai/gpt-5.1-chat",
+    "llm_key": "<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>",
+    "invocation_name": "modo jarvis"
+}
